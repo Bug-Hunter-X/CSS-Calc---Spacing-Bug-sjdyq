@@ -1,0 +1,1 @@
+This repository demonstrates a common but often overlooked issue with CSS's `calc()` function: inconsistent spacing around operators.  Incorrect spacing can lead to unexpected layout behavior.  The `bug.css` file shows the problematic code. The `bugSolution.css` file shows the corrected code and provides a solution.
