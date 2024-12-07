@@ -1,0 +1,13 @@
+Always ensure there are no unnecessary spaces between the operators (+, -, *, /) and the values within the `calc()` function.  The corrected code removes the extra spaces, resulting in expected behavior.
+
+```css
+/* Incorrect */
+.element {
+  width: calc(100%  -  10px);
+}
+
+/* Correct */
+.element {
+  width: calc(100% - 10px);
+}
+```
